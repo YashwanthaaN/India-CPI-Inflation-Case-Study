@@ -1,5 +1,3 @@
-# India-CPI-Inflation-Case-Study
-
 # 📊 India CPI Inflation Analysis (2017–2023)
 
 ## 📌 Project Overview
@@ -77,13 +75,6 @@ Understanding CPI trends helps governments, businesses, and analysts make inform
 
 ## 📂 Project Files
 - `All_India_Index_Upto_April23_Case_Study_Solution.xlsx` – Excel workbook containing analysis, calculations, and dashboards.
-
----
-
-## 🔗 Author
-**Yashwanth N**  
-Data Analyst  
-📍 Bangalore, India  
 
 ---
 
